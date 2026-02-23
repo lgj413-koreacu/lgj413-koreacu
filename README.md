@@ -1,4 +1,35 @@
-## Hi there 👋
+## Biography
+I am Gyuejeong Lee, an AI researcher, and an Assistant Professor in the Division of Artificial Intelligence and Data Science, [Korea Cyber University](https://www.cuk.edu/index.do) I received my Ph.D. under the supervision of Prof. [Nojun Kwak](https://scholar.google.com/citations?user=h_8-1M0AAAAJ&hl=en) at Seoul National University.
+
+My research interests are primarily related to personalized artificial intelligence, including personalized federated learning, machine Unlearning, and personalized SLM(Small Language Model) with RL.
+
+## Publication(Selected, [Google Scholar](https://scholar.google.co.kr/citations?user=N2N5IMoAAAAJ&hl=en))
+### Personalized Federated Learning
+- ✨ **[ICCV'25] Class-Wise Federated Averaging for Efficient Personalization** [[project page](https://github.com/regulationLee/cwFedAvg)]
+  - **Gyuejeong Lee**, Daeyoung Choi
+- ✨ **[AAAI'26 Accepted] Communication-Efficient Heterogeneous Federated Learning with Sparse Prototypes in Resource-Constrained Environments** [[project page](https://github.com/regulationLee/TinyProto)]
+  - **Gyuejeong Lee**, Daeyoung Choi
+- **Heterogeneous Federated Learning with Prototype Alignment and Upscaling** [[project page](https://github.com/regulationLee/ProtoNorm)]
+  - Daeyoung Choi, Jihwan Shin, **Gyuejeong Lee**
+ 
+### FL in Application
+- ✨ [Defence Science Journal] **Predictive Factor Analysis of Air-to-Air Engagement Outcomes Using Air Combat Manoeuvring Instrumentation Data** [[page](https://publications.drdo.gov.in/ojs/index.php/dsj/article/view/20014)]
+  - **Gyuejeong Lee**, Yong-hwan Kim, Daeyoung Choi
+
+## Industry Experience
+- **Head of Research Institute, SAKAK Inc.(Jan 2024 - Fed 2026)
+  - Founded and led the corporate R&D center, focusing on applied AI systems
+  - Developed and deployed personalized and federated learning solutions in real-world environments
+ 
+  **Major Collaborations & Programs**
+  - Qualcomm AI Program for Innovators (QAIPI) 2025 – APAC | Tech Leader of the Shortlisted Startup "SAKAK"
+  - Seoul TIPS(2024 - 2026) - Domain-Agnostic Privacy-Preserving & Utilizing Technology for On-device Personalized AI | Tech Leader
+  - Samsung C-lab outside(2026) - Hyper-personalized On-device AI solution | Tech Leader
+ 
+## Courses and Talks
+- **Reinforcement Learning** | Cyber University of Korea – Fall 2024  
+- **Deep Learning** | Cyber University of Korea – Spring 2025
+- **AI/Big Data Colloquium** | Cyber University of Korea [[video](https://www.youtube.com/watch?v=Wg3i_5lQd9k)]
 
 <!--
 **lgj413-koreacu/lgj413-koreacu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
