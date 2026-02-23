@@ -17,11 +17,11 @@ My research interests are primarily related to personalized artificial intellige
   - **Gyuejeong Lee**, Yong-hwan Kim, Daeyoung Choi
 
 ## Industry Experience
-- **Head of Research Institute, SAKAK Inc.(Jan 2024 - Fed 2026)
+- **Head of Research Institute, SAKAK Inc.(Jan 2024 - Fed 2026)**
   - Founded and led the corporate R&D center, focusing on applied AI systems
   - Developed and deployed personalized and federated learning solutions in real-world environments
  
-  **Major Collaborations & Programs**
+  Major Collaborations & Programs**
   - Qualcomm AI Program for Innovators (QAIPI) 2025 – APAC | Tech Leader of the Shortlisted Startup "SAKAK"
   - Seoul TIPS(2024 - 2026) - Domain-Agnostic Privacy-Preserving & Utilizing Technology for On-device Personalized AI | Tech Leader
   - Samsung C-lab outside(2026) - Hyper-personalized On-device AI solution | Tech Leader
