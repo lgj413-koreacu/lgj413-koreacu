@@ -21,7 +21,7 @@ My research interests are primarily related to personalized artificial intellige
   - Founded and led the corporate R&D center, focusing on applied AI systems
   - Developed and deployed personalized and federated learning solutions in real-world environments
  
-    Major Collaborations & Programs**
+    Major Collaborations & Programs
     - Qualcomm AI Program for Innovators (QAIPI) 2025 – APAC | Tech Leader of the Shortlisted Startup "SAKAK"
     - Seoul TIPS(2024 - 2026) - Domain-Agnostic Privacy-Preserving & Utilizing Technology for On-device Personalized AI | Tech Leader
     - Samsung C-lab outside(2026) - Hyper-personalized On-device AI solution | Tech Leader
